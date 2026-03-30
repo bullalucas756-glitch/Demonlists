@@ -218,8 +218,8 @@ export default {
 
                     <div class="og">
                         <p class="type-label-md">
-                            Website layout made by
-                            <a href="https://tsl.pages.dev/" target="_blank">
+                            Website Layout made from the
+                            <a href="" target="_blank">
                                 TheShittyList
                             </a>
                         </p>

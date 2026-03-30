@@ -4,12 +4,12 @@
     "creators": ["⁨⁨Mindcap"],
     "verifier": "Zoink",
     "verification": "https://www.youtube.com/watch?v=QKcv8DkNPd0",
-    "percentToQualify": "50",
+    "percentToQualify": "100",
     "records": [
         {
             "user": "D3fau1t",
-            "link": "https://www.youtube.com/watch?v=VuSFS2MtMJw",
-            "percent": 52,
+            "link": "https://youtu.be/9sgHrnoUJQY",
+            "percent": 100,
             "hz": 240
         }
     ],

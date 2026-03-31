@@ -63,5 +63,11 @@
         "name": "Pro",
         "levels": ["andromeda"],
         "color": "#f44"
+    },
+    
+    {
+        "name": "Demon",
+        "levels": ["Orbit", "Nullscapes"],
+        "color": "#f44"
     }
 ]

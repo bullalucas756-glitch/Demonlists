@@ -3,5 +3,41 @@
         "name": "67",
         "levels": ["Tidal Wave", "Orbit"],
         "color": "#50f"
+    },
+    
+    {
+        "name": "Pro",
+        "levels": ["Nullscapes"],
+        "color": "#ff0000"
+    },
+
+    {
+        "name": "Pro",
+        "levels": ["Flamewall"],
+        "color": "#ff0000"
+    },
+
+    {
+        "name": "Pro",
+        "levels": ["Thinking Space II"],
+        "color": "#ff0000"
+    }
+
+    {
+        "name": "Pro",
+        "levels": ["Tidal Wave"],
+        "color": "#ff0000"
+    },
+
+    {
+        "name": "Pro",
+        "levels": ["Amethyst"],
+        "color": "#ff0000"
+    },
+
+    {
+        "name": "Pro",
+        "levels": ["Orbit"],
+        "color": "#ff0000"
     }
 ]
